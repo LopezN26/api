@@ -199,4 +199,4 @@ else
 {
     selectrandom();
 }
-include "footer.html"; ?>
+ ?>
